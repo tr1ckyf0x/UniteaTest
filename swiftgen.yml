@@ -1,0 +1,7 @@
+
+strings:
+  inputs:
+    - UTest/Resources/Strings/Base.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: UTest/Generated/Strings+Generated.swift
